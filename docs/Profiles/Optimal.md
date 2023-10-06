@@ -10,26 +10,26 @@
 
 | Resolution       | Source          | Codec     | Tracker | Audio     | HDR               | Edition          | Score | Upgrade Until |
 |------------------|-----------------|-----------|---------|-----------|-------------------|-----------------|-------|---------|
-| [[2160p]]            | [[Blu-Ray ]]        | [[BD Remux]]  |         | [[DTS-X]]     |                   |                 | 60    | 320     |
-|                  |[[Movies Anywhere]]  |           |         | [[TrueHD]]    |                   |                 | 50    |        |
-|                  |                 |           |         | [[DTS-HD MA]] |                   |                 |       |       |
-|                  | [[Amazon Prime]]    |           |         |           |                   |                 | 40    |      |
-|                  | [[Apple TV+]]       |           |         |           |                   |                 |       |     |
-|                  | [[Disney+]]         |           |         | [[FLAC]]      | [[DV]]                |                 | 30    |    |
-|                  | [[Netflix]]         |           |         |           |                   |                 |       |   |
-|                  | [[HBOMax]]          |           |         |           |                   |                 |       |  |
-|                  | [[Hulu]]            |           |         |           | [[HDR10+]]            |                 | 20    |  |
-|                  | [[Peacock]]         |           |         |           |                   |                 |       |  |
-|                  | [[Paramount+]]      |           |         |           |                   |                 |       |  |
-|                  | [[Roku]]            |           |         |           |                   |                 |       |  |
-|                  | [[iTunes]]          |           |         | [[Atmos]]     | [[HDR10]]             |                 | 10    |  |
-|                  |                 |           |         | [[DD+]]       |                   | [[Special]] | 0     ||
-|                  |                 |           |         | [[DTS]]       |                   |                 |       |  |
-|                  |                 |           |         | [[DD]]        |                   |                 |       |  |
-| [[SD]]             | [[WEBRIP]]          | [[Xvid]]      | [[UHDBits]] |           | [[DV Only]]|                 | -9999 |         |
-| [[720p]]             | [[DVD]]             | [[x264]]      |         |           |                   |                 |       |         |
-| [[1080p]]            |                 | [[x265]]      |         |           |                   |                 |       |         |
-|                  |                 | [[DVD Remux]] |         |           |                   |                 |       |         |
+| [2160p](2160p.md.md)            | [Blu-Ray](../Custom%20Formats/Sources/Blu-Ray.md)        | [BD Remux](BD%20Remux.md.md)  |         | [DTS-X](DTS-X.md.md)     |                   |                 | 60    | 320     |
+|                  |[Movies Anywhere](Movies%20Anywhere.md.md)  |           |         | [TrueHD](TrueHD.md.md)    |                   |                 | 50    |        |
+|                  |                 |           |         | [DTS-HD MA](DTS-HD%20MA.md.md) |                   |                 |       |       |
+|                  | [Amazon Prime](Amazon%20Prime.md.md)    |           |         |           |                   |                 | 40    |      |
+|                  | [Apple TV+](Apple%20TV+.md.md)       |           |         |           |                   |                 |       |     |
+|                  | [Disney+](Disney+.md.md)         |           |         | [FLAC](FLAC.md.md)      | [DV](DV.md.md)                |                 | 30    |    |
+|                  | [Netflix](Netflix.md.md)         |           |         |           |                   |                 |       |   |
+|                  | [HBOMax](HBOMax.md.md)          |           |         |           |                   |                 |       |  |
+|                  | [Hulu](Hulu.md.md)            |           |         |           | [HDR10+](HDR10+.md.md)            |                 | 20    |  |
+|                  | [Peacock](Peacock.md.md)         |           |         |           |                   |                 |       |  |
+|                  | [Paramount+](Paramount+.md.md)      |           |         |           |                   |                 |       |  |
+|                  | [Roku](Roku.md.md)            |           |         |           |                   |                 |       |  |
+|                  | [iTunes](iTunes.md.md)          |           |         | [Atmos](Atmos.md.md)     | [HDR10](HDR10.md.md)             |                 | 10    |  |
+|                  |                 |           |         | [DD+](DD+.md.md)       |                   | [Special](Special.md.md) | 0     ||
+|                  |                 |           |         | [DTS](DTS.md.md)       |                   |                 |       |  |
+|                  |                 |           |         | [DD](DD.md.md)        |                   |                 |       |  |
+| [SD](SD)             | [WEBRIP](WEBRIP.md.md)          | [Xvid](Xvid.md.md)      | [UHDBits](UHDBits) |           | [DV Only](DV%20Only.md.md)|                 | -9999 |         |
+| [720p](720p.md.md)             | [DVD](DVD.md.md)             | [x264](x264.md.md)      |         |           |                   |                 |       |         |
+| [1080p](1080p.md.md)            |                 | [x265](x265.md.md)      |         |           |                   |                 |       |         |
+|                  |                 | [DVD Remux](DVD%20Remux.md.md) |         |           |                   |                 |       |         |
 
 # The Essence of Optimal
 
