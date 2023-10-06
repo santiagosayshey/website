@@ -45,10 +45,6 @@ h2 {
   margin-top: 10px !important;
 }
 
-body {
-  font-family: "Source Sans Pro", sans-serif;
-}
-
 p {
   font-size: 0.8em;
 }
@@ -67,4 +63,13 @@ p {
 .md-nav__list {
   font-family: "Source Sans Pro", sans-serif;
   font-size: 0.9em;
+}
+
+.md-search__inner {
+  border-radius: 10px !important; /* Adjust the value to your preference for the rounded edges */
+  font-family: "Schibsted Grotesk", sans-serif !important;
+}
+
+div[role="search"] .md-search__input::placeholder {
+  font-family: "Schibsted Grotesk", sans-serif;
 }
