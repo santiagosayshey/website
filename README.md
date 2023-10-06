@@ -2,8 +2,6 @@
 
 Welcome to the GitHub repository for **Dictionarry**! Dictionarry is a project designed to simplify the intricate world of media automation, focusing on custom formats & profiles via Radarr & Sonarr.
 
-![Dictionarry Logo](path-to-logo-if-any.png) _<- Replace with your project's logo if you have one._
-
 ## 🎥 About Dictionarry
 
 With the world of torrents offering a myriad of choices, it becomes daunting for newbies to make the right decision. Which resolution is best? What's the difference between SDR and HDR? Which codec should I choose? The questions are endless.
