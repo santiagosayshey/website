@@ -50,8 +50,10 @@ h1 {
   font-size: 1.7em !important;
 }
 
-p {
-  font-size: 0.8em;
+p,
+li,
+ul {
+  font-family: "Source Sans Pro", sans-serif;
 }
 
 .md-ellipsis,
