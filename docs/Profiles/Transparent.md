@@ -5,19 +5,19 @@ date: 2023-10-06
 
 ## Overview
 
-A data driven, dynamic profile focused on delivering the best balance between Quality, File Size and Universality.
+A data driven, dynamic profile focused on delivering a balance between quality, efficiency and universality.
 
-"Transparent" evolves continually to select the release most likely to attain a 'Golden Popcorn' status. Rather than being bound by isolated audio or video quality metrics, this profile places trust in the reputations and track records of release groups. By leveraging a unique metric, the [Golden Popcorn Performance Index](../Wiki/Golden%20Popcorn%20Performance%20Index.md) (GPPi), "Transparent" harnesses historical data to identify release groups known for their consistent output of quality encodes.
+This profile tries to select the release most likely to attain a 'Golden Popcorn' status. Rather than being bound by audio or video quality metrics, this profile places trust in the reputations of release groups. By leveraging a unique metric, the [Golden Popcorn Performance Index](../Wiki/Golden%20Popcorn%20Performance%20Index.md) (GPPi), "Transparent" harnesses historical data to identify release groups known for their consistent output of quality encodes.
 
 ### Installation
 
 Review the guide on [Importing Profiles & Custom Formats](../Wiki/Importing%20Profiles%20&%20Custom%20Formats.md) to import the necessary custom formats and profiles inside your Radarr installation.
 
-### Custom Formats
-
-The links in each of the score breakdowns are provided for you to tinker with if you want to modify them to suit your needs! They are not needed if you want to simply import the profile as is.
+When prompted to select a profile, choose transparent.
 
 ## Score Breakdown
+
+A breakdown of each of the internal tiers can be found here: [Release Group Tiers](../Wiki/Release%20Group%20Tiers.md)
 
 ### 1080p Only
 
@@ -90,48 +90,26 @@ In addition to the previous fallbacks, this version allows grabbing 720p golden 
 
 Coming Soon!
 
-### Internal Tiers
-
-A breakdown of each of the internal tiers can be found here: [Release Group Tiers](../Wiki/Release%20Group%20Tiers.md)
-
 ## Examples
 
-## Discussion
+## The Nuances of Transparency
 
-### The Nuances of Transparency
-
-#### 1. Application Scope
+### 1. Application Scope
 
 **Existing Movies**: Typically, there's a single grab. However, upgrades might occur if a more reputable group releases a 'Golden Popcorn' version later. For instance, in the case of an already available reputable Blu-ray release, this profile may bypass web releases and opt for the reputable Blu-ray rip directly.
 
 **Unreleased Movies**: Here, the journey is more layered. With VODs being the first to hit the market, a movie might undergo several upgrades. Initially, versions with constraints, such as Korean iTunes leaks with hardcoded subtitles, might be grabbed. This is progressively upgraded as more polished VODs become available, culminating in grabbing the most transparent available VOD, which is usually "Movies Anywhere". When the Blu-ray is out, patience is key. Instead of snapping up the immediate releases (which might not be the best), the profile waits for a reputable group's encode. The cycle of upgrades continues until it hits the upgrade threshold of 320 points. This threshold can be fine tuned by the user to account for upgrade immutability.
 
-#### 2. Handling Varying Resolutions
+### 2. Handling Varying Resolutions
 
 In scenarios where a VOD or Blu-ray is unavailable in the desired resolution, the profile uses SD as a fallback. There's a clear hierarchy: DVD remuxes take precedence, followed by SD 'Golden Popcorns', and then other internal SD encodes and VODs.
 
 In the scenario that there exists no 1080p Golden Popcorn, 720p Golden Popcorns are prioritised over 1080p web VODS, SD encodes and DVD remuxes. On first glance, this doesn't seem _transparent_ but please note that some 720p golden popcorns are more than sufficient in providing a transparent picture quality (and they save significantly more space). Once again, we place the trust in the release group the decide what is the best quality / size ratio.
 
-#### 3. The Role of Indexer Flags
+### 3. The Role of Indexer Flags
 
 Beyond relying on data, the profile also utilizes indexer flags, especially with platforms like PassThePopcorn and HDBits. These flags are instrumental in handling exceptions where a 'Golden Popcorn' exists but hasn't been accounted for or when a more reputable group has actually encoded the 'Golden Popcorn'. This mechanism ensures that genuinely transparent releases are not missed.
 
-#### 4. Quality Profiles and Their Significance
+### 4. Quality Profiles and Their Significance
 
 Quality isn't merely about the source. There can be instances where a 4K VOD is 'webripped' to 1080p, offering a superior source compared to a standard 1080p Blu-ray encode. To ensure the best grab, various profiles like WEBRIP, BLURAY, and WEBDL are nested under a 'transparent capable' grouping, ensuring no specific source is prioritized over another.
-
-### Indexer Priority
-
-### Quality Hierarchy
-
-In a nutshell, quality profiles are prioritised as such:
-
-| Quality              |
-| -------------------- |
-| 1080p Golden Popcorn |
-| 1080p WEB            |
-| 1080p Bluray         |
-| 720p Golden Popcorn  |
-| DVD Remux            |
-| SD Golden Popcorn    |
-| SD WEB               |

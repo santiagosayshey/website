@@ -7,4 +7,4 @@ tags: []
 
 Ahoy! Welcome to Dictionarry! This project aims to simplify media automation via tailored custom formats & profiles via Radarr & Sonarr.
 
-Checkout the [FlowChart](FlowChart.md.md) to get started!
+Checkout the [FlowChart](./Profiles/FlowChart.md) to get started!
