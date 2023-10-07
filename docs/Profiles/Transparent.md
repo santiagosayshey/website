@@ -90,7 +90,34 @@ In addition to the previous fallbacks, this version allows grabbing 720p golden 
 
 ### Remux Fallback
 
-Coming Soon!
+|Resolution|Source|Codec|Internal|Audio|Extras|Flags|Score|Upgrade|
+|---|---|---|---|---|---|---|---|---|
+||||HD T1|||HD GP|120|320|
+||||HD T2||||110|
+||||HD T3||||100|
+||||HD T4||||90|
+||||HD T5||||80|
+||||HD T6|||HDB Internal|70|
+|1080p|Movies Anywhere||||||60|
+||Amazon Prime||||||50|
+||Apple TV+||||||
+||Disney+|DVD Remux|||||40|
+||Netflix|BD Remux|||||
+||HBOMax||||||
+||Hulu||SD T1|DTS-X||SD GP|30|
+||Peacock||HD T7||||
+||Paramount+||||||
+||Roku||||||
+||iTunes||SD T2|TrueHD|SE||20|
+||Blu-Ray|x264||Atmos|IMAX||10|
+||WEBRIP|||DTS-HD MA|Criterion||
+|480p|DVD|Xvid||FLAC|||0|
+|||||DD+|||
+|||||DTS|||
+|||||DD|||
+|720p|||||||-120|
+|2160p||x265|||Features||-9999|
+|||Disc|||||
 
 ### Quality Profiles
 
