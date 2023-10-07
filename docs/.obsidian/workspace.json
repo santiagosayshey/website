@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8e3782edbda0b3db",
+        "id": "13d39da1d163903d",
         "type": "tabs",
         "children": [
           {
-            "id": "35ac64fd72a75eb0",
+            "id": "a02a72c70bb11bb8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Custom Formats/Codecs/BD Remux.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Custom Formats/Codecs/BD Remux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Custom Formats/Codecs/BD Remux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Custom Formats/Codecs/BD Remux.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35ac64fd72a75eb0",
+  "active": "a02a72c70bb11bb8",
   "lastOpenFiles": [
+    "Wiki/Release Group Tiers.md",
+    "Custom Formats/Release Groups.md",
+    "Profiles/Transparent.md",
+    "Profiles/index.md",
+    "Custom Formats/HDR.md",
+    "Profiles/Optimal.md",
+    "Custom Formats/Sources.md",
     "assets/logo.png",
     "assets/open-book_1f4d6.png",
     "stylesheets/variables.scss",
@@ -157,8 +156,6 @@
     "stylesheets/base.scss",
     "javascripts/mathjax.js",
     "javascripts",
-    "Profiles/Optimal.md",
-    "Profiles/Transparent.md",
     "Profiles/1. Optimal.md",
     "Profiles/2. Transparent.md",
     "stylesheets/table.css",

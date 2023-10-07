@@ -1,78 +1,55 @@
+---
+title: 1. Optimal
+date: 2023-10-06
+---
+
 ## Overview
-"Optimal" is a meticulously crafted profile, laser-focused on securing the crème de la crème of home video. Unlike traditional profiles like Transparent that lean heavily on release groups, "Optimal" pivots towards audio and video features, ensuring that the quality of the release is paramount. By doing so, it minimizes the frequency of remux grabs, a crucial factor given the substantial size of these files. This approach also addresses the challenge posed by trackers like PTP, which often release top-tier remuxes without naming the release group.
 
-## Installation
+The optimal profile aims to select the best possible release of a movie, irregardless of file size or compatability. Audio and video metrics are used to determine which is the best release.
 
-- See this github link to import the nessecary custom formats and profile into your Radarr setup:
-- https://github.com/santiagosayshey/Profilarr
-	- When prompted to select a profile, choose Optimal
-# Score Breakdown
+### Installation
 
-| Resolution       | Source          | Codec     | Tracker | Audio     | HDR               | Edition          | Score | Upgrade Until |
-|------------------|-----------------|-----------|---------|-----------|-------------------|-----------------|-------|---------|
-| [2160p](2160p.md.md)            | [Blu-Ray](../Custom%20Formats/Sources/Blu-Ray.md)        | [BD Remux](BD%20Remux.md.md)  |         | [DTS-X](DTS-X.md.md)     |                   |                 | 60    | 320     |
-|                  |[Movies Anywhere](Movies%20Anywhere.md.md)  |           |         | [TrueHD](TrueHD.md.md)    |                   |                 | 50    |        |
-|                  |                 |           |         | [DTS-HD MA](DTS-HD%20MA.md.md) |                   |                 |       |       |
-|                  | [Amazon Prime](Amazon%20Prime.md.md)    |           |         |           |                   |                 | 40    |      |
-|                  | [Apple TV+](Apple%20TV+.md.md)       |           |         |           |                   |                 |       |     |
-|                  | [Disney+](Disney+.md.md)         |           |         | [FLAC](FLAC.md.md)      | [DV](DV.md.md)                |                 | 30    |    |
-|                  | [Netflix](Netflix.md.md)         |           |         |           |                   |                 |       |   |
-|                  | [HBOMax](HBOMax.md.md)          |           |         |           |                   |                 |       |  |
-|                  | [Hulu](Hulu.md.md)            |           |         |           | [HDR10+](HDR10+.md.md)            |                 | 20    |  |
-|                  | [Peacock](Peacock.md.md)         |           |         |           |                   |                 |       |  |
-|                  | [Paramount+](Paramount+.md.md)      |           |         |           |                   |                 |       |  |
-|                  | [Roku](Roku.md.md)            |           |         |           |                   |                 |       |  |
-|                  | [iTunes](iTunes.md.md)          |           |         | [Atmos](Atmos.md.md)     | [HDR10](HDR10.md.md)             |                 | 10    |  |
-|                  |                 |           |         | [DD+](DD+.md.md)       |                   | [Special](Special.md.md) | 0     ||
-|                  |                 |           |         | [DTS](DTS.md.md)       |                   |                 |       |  |
-|                  |                 |           |         | [DD](DD.md.md)        |                   |                 |       |  |
-| [SD](SD)             | [WEBRIP](WEBRIP.md.md)          | [Xvid](Xvid.md.md)      | [UHDBits](UHDBits) |           | [DV Only](DV%20Only.md.md)|                 | -9999 |         |
-| [720p](720p.md.md)             | [DVD](DVD.md.md)             | [x264](x264.md.md)      |         |           |                   |                 |       |         |
-| [1080p](1080p.md.md)            |                 | [x265](x265.md.md)      |         |           |                   |                 |       |         |
-|                  |                 | [DVD Remux](DVD%20Remux.md.md) |         |           |                   |                 |       |         |
+Review the guide on [Importing Profiles & Custom Formats](../Wiki/Importing%20Profiles%20&%20Custom%20Formats.md) to import the necessary custom formats and profiles inside your Radarr installation.
 
-# The Essence of Optimal
+When prompted to select a profile, choose optimal.
 
-#### 1. **Indexer Priority**: 
-   - Recognizing the limitations of parsing release notes, "Optimal" leverages indexer priority. Releases from HDB and BHD are always prioritized, given their consistent track record of hosting superior releases, notably from FRaMeSToR and 3L.
-
-#### 2. **Audio/Video Supremacy**: 
-   - The heart of "Optimal" lies in its unwavering commitment to audio and video quality. This ensures that even if a release group isn't specified, the profile can still discern and select the best available remux based on its intrinsic quality.
-
-#### 3. **Special Consideration for WiLDCAT**: 
-   - Releases from WiLDCAT are almost always prioritized due to their enhanced HDR and Audio tracks, setting them apart in the remux landscape.
-
-#### 4. **Fallback Mechanism**: 
-   - "Optimal" is not just about waiting for the perfect release. It provides a fallback to 2160p WEB VODs, ensuring that new movies are promptly grabbed. However, once the UHD Blu-ray is out, the profile will seamlessly upgrade to that superior version.
-
-# The Optimal Alternative
-
-For those who don't mind multiple upgrades of a remux, there's an alternative: **Optimal v2.1**. This variant incorporates release groups in tandem with audio/video features, ensuring a more comprehensive approach to prioritizing releases.
 ## Score Breakdown
 
+| Resolution                                        | Source                                                              | Codec                                                  | Internal | Audio                                                 | Extras                                           | Flags                                           | Score | Upgrade |
+| ------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------ | -------- | ----------------------------------------------------- | ------------------------------------------------ | ----------------------------------------------- | ----- | ------- |
+| [2160p](../Custom%20Formats/Resolutions.md#2160p) | [Blu-Ray](../Custom%20Formats/Sources.md#Blu-Ray)                   | [BD Remux](../Custom%20Formats/Codecs.md#BD%20Remux)   |          | [DTS-X](../Custom%20Formats/Audio.md#DTS-X)           |                                                  |                                                 | 60    | 320     |
+|                                                   | [Movies Anywhere](../Custom%20Formats/Sources.md#Movies%20Anywhere) |                                                        |          | [TrueHD](../Custom%20Formats/Audio.md#TrueHD)         |                                                  |                                                 | 50    |         |
+|                                                   | [Amazon Prime](../Custom%20Formats/Sources.md#Amazon%20Prime)       |                                                        |          | [DTS-HD MA](../Custom%20Formats/Audio.md#DTS-HD%20MA) |                                                  |                                                 |       |         |
+|                                                   | [Apple TV+](../Custom%20Formats/Sources.md#Apple%20TV+)             |                                                        |          |                                                       |                                                  |                                                 |       |         |
+|                                                   | [Disney+](../Custom%20Formats/Sources.md#Disney+)                   |                                                        |          | [FLAC](../Custom%20Formats/Audio.md#FLAC)             |                                                  | [DV](../Custom%20Formats/HDR.md#DV)             | 30    |         |
+|                                                   | [Netflix](../Custom%20Formats/Sources.md#Netflix)                   |                                                        |          |                                                       |                                                  |                                                 |       |         |
+|                                                   | [HBOMax](../Custom%20Formats/Sources.md#HBOMax)                     |                                                        |          |                                                       |                                                  |                                                 |       |         |
+|                                                   | [Hulu](../Custom%20Formats/Sources.md#Hulu)                         |                                                        |          |                                                       |                                                  | [HDR10+](../Custom%20Formats/HDR.md#HDR10+)     | 20    |         |
+|                                                   | [Peacock](../Custom%20Formats/Sources.md#Peacock)                   |                                                        |          |                                                       |                                                  |                                                 |       |         |
+|                                                   | [Paramount+](../Custom%20Formats/Sources.md#Paramount+)             |                                                        |          |                                                       |                                                  |                                                 |       |         |
+|                                                   | [Roku](../Custom%20Formats/Sources.md#Roku)                         |                                                        |          |                                                       |                                                  |                                                 |       |         |
+|                                                   | [iTunes](../Custom%20Formats/Sources.md#iTunes)                     |                                                        |          | [Atmos](../Custom%20Formats/Audio.md#Atmos)           |                                                  | [HDR10](../Custom%20Formats/HDR.md#HDR10)       | 10    |         |
+|                                                   |                                                                     | [Xvid](../Custom%20Formats/Codecs.md#Xvid)             |          | [DD+](../Custom%20Formats/Audio.md#DD+)               |                                                  |                                                 |       |         |
+|                                                   | [WEBRIP](../Custom%20Formats/Sources.md#WEBRIP)                     | [x264](../Custom%20Formats/Codecs.md#x264)             |          | [DTS](../Custom%20Formats/Audio.md#DTS)               | [Special](../Custom%20Formats/Extras.md#Special) |                                                 |       |         |
+| [SD](../Custom%20Formats/Resolutions.md#SD)       | [DVD](../Custom%20Formats/Sources.md#DVD)                           | [x265](../Custom%20Formats/Codecs.md#x265)             |          |                                                       |                                                  |                                                 | -9999 |         |
+| [720p](../Custom%20Formats/Resolutions.md#720p)   |                                                                     | [DVD Remux](../Custom%20Formats/Codecs.md#DVD%20Remux) |          | [DD](../Custom%20Formats/Audio.md#DD)                 |                                                  |                                                 |       |         |
+| [1080p](../Custom%20Formats/Resolutions.md#1080p) |                                                                     |                                                        |          |                                                       |                                                  |                                                 |       |         |
+|                                                   |                                                                     |                                                        |          |                                                       |                                                  | [DV Only](../Custom%20Formats/HDR.md#DV%20Only) |       |         |
 
-| Resolution | Source  | Internal   | Audio     | Channels | HDR       | Edition    | Score | Upgrade |
-|------------|---------|------------|-----------|----------|-----------|------------|-------|---------|
-|            | h265 BR | FraMeSToR  |           |          |           |            | 100   | 500     |
-|            |         | WiLDCAT    | DTS-X     |          |           |            | 95    |         |
-|            |         | playBD     | TRUEHD    |          |           |            | 90    |         |
-|            |         |            | DTS-HD MA |          |           |            | 85    |         |
-|            |         | PmP        | FLAC      |          |           |            | 80    |         |
-|            |         | EPSiLON    |           |          | DV+HDR10+ |            | 70    |         |
-|            |         | FLiGHTS    |           |          |           |            | 65    |         |
-|            |         | KRaLiMaRKo |           |          |           |            | 60    |         |
-|            |         | TRiTON     | DD+       | 7.1      | DV+HDR10  | Extended   | 50    |         |
-|            | AMZN    | NTb        |           |          |           |            | 40    |         |
-|            | ATVP    | FLUX       |           |          |           |            |       |         |
-|            | DSNP    |            | DTS       | 5.1      | HDR10+    |            | 30    |         |
-|            | NF      |            |           |          |           |            |       |         |
-|            | HMAX    |            |           |          |           |            |       |         |
-|            | HULU    | TOMMY      | DD        | Stereo   |           | Criterion  | 20    |         |
-|            | PCOK    | TEPES      |           |          |           |            |       |         |
-|            | PMTP    | playWEB    |           |          |           |            |       |         |
-|            | iT      | Scene      | Atmos     | Mono     | HDR       | IMAX (WEB) | 10    |         |
-| 2160p      |         |            |           |          |           |            | 0     |         |
-| SD         | h264    |            |           |          | DV        | Theatrical | -1000 |         |
-| 1080p      | x264    |            |           |          |           |            |       |         |
-| 720p       | x265    |
+## The Essence of Optimal
 
+#### 1. **Indexer Priority**:
+
+- Recognizing the limitations of parsing release notes, "Optimal" leverages indexer priority. Releases from HDB and BHD are always prioritized, given their consistent track record of hosting superior releases, notably from FRaMeSToR and 3L.
+
+#### 2. **Audio/Video Supremacy**:
+
+- The heart of "Optimal" lies in its unwavering commitment to audio and video quality. This ensures that even if a release group isn't specified, the profile can still discern and select the best available remux based on its intrinsic quality.
+
+#### 3. **Special Consideration for WiLDCAT**:
+
+- Releases from WiLDCAT are almost always prioritized due to their enhanced HDR and Audio tracks, setting them apart in the remux landscape.
+
+#### 4. **Fallback Mechanism**:
+
+- "Optimal" is not just about waiting for the perfect release. It provides a fallback to 2160p WEB VODs, ensuring that new movies are promptly grabbed. However, once the UHD Blu-ray is out, the profile will seamlessly upgrade to that superior version.
