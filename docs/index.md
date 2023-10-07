@@ -1,11 +1,9 @@
 ---
-title: Welcome!
+title: Ahoy!
 draft: false
 date: 2023-09-17
 tags: []
 ---
-
-## Ahoy!
 
 Welcome to Dictionarry! This project aims to simplify media automation via tailored custom formats & profiles via Radarr & Sonarr.
 
@@ -22,7 +20,7 @@ I wanted to create this project to try and abstract the technical nitty gritty f
 
 ## How?
 
-I've created a [Flowchart](./Profiles/FlowChart.md) that turns the answers to these questions into a profile which automates the process in which releases are selected in Radarr.
+I've created a [Flowchart](./Profiles/index.md) that turns the answers to these questions into a profile which automates the process in which releases are selected in Radarr.
 
 Once you've found your desired profile, check out [Profilarr](./Wiki/Importing%20Profiles%20&%20Custom%20Formats.md) for mass importing custom formats and profiles
 
