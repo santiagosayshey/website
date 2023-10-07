@@ -1,0 +1,77 @@
+/* Include the IBM Plex Mono font */
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:ital,wght@0,700;1,500&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro");
+
+/* Base table styling */
+table {
+  width: auto !important;
+  max-width: 100%; /* Ensures table doesn't exceed viewport width */
+  table-layout: auto;
+  border-collapse: collapse !important;
+  font-family: "IBM Plex Mono", monospace !important;
+  font-size: 0.8em !important;
+}
+
+table th,
+table td {
+  border: 1px solid #ddd !important;
+  padding: 6px 8px !important;
+  white-space: nowrap !important;
+  width: auto !important; /* Cells should adjust automatically */
+  font-size: 0.8em !important;
+}
+
+/* Forcefully overriding the problematic style */
+.md-typeset table:not([class]) th {
+  min-width: auto !important;
+}
+
+table th {
+  font-weight: 700 !important;
+}
+/* Typography styles */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Schibsted Grotesk", sans-serif;
+  margin-bottom: 0px !important;
+}
+
+h2 {
+  margin-top: 20px !important;
+}
+
+h1 {
+  font-size: 1.7em !important;
+}
+
+p,
+li,
+ul {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.md-ellipsis,
+.md-nav__title,
+.md-tabs__link {
+  font-family: "Schibsted Grotesk", sans-serif !important;
+}
+
+.md-nav__list {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 0.9em;
+}
+
+.md-search__inner {
+  border-radius: 10px !important; /* Adjust the value to your preference for the rounded edges */
+  font-family: "Schibsted Grotesk", sans-serif !important;
+}
+
+div[role="search"] .md-search__input::placeholder {
+  font-family: "Schibsted Grotesk", sans-serif;
+}

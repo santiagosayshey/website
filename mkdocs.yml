@@ -3,6 +3,8 @@ theme:
   name: material
   logo: assets/logo.png
   favicon: assets/logo.png
+  icon:
+    repo: fontawesome/brands/github
   palette:
     # Palette toggle for dark mode
     - scheme: slate
