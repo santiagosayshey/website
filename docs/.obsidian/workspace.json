@@ -13,13 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Profiles/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc366eb143d51244",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Profiles/Transparent.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "16ccda12380aec36",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,17 +167,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a966ff582fe1b6f7",
+  "active": "fc366eb143d51244",
   "lastOpenFiles": [
+    "index.md",
+    "Profiles/Transparent.md",
+    "Profiles/Untitled.canvas",
     "Profiles/Optimal.md",
     "Profiles/index.md",
+    "Profiles/flowchart.png",
     "Wiki/Release Group Tiers.md",
     "Profiles/Immutable.md",
     "Wiki/Sonarr Release Groups.md",
     "Wiki/Importing Profiles & Custom Formats.md",
-    "index.md",
     "Custom Formats/Release Groups.md",
-    "Profiles/Transparent.md",
     "Wiki/Golden Popcorn Performance Index.md",
     "assets/logo.png",
     "Custom Formats/HDR.md",

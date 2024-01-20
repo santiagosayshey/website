@@ -11,7 +11,7 @@ Welcome to Dictionarry! This project aims to simplify media automation via tailo
 
 I often get questions from friends who I've introduced to torrenting about which releases to grab - is 4k better than 1080p? Should I grab SDR / HDR? Difference between x264/5, etc. The list goes on.
 
-I started this project to strip away the technical hassle from torrents and focus on what's important - getting the media you want. The idea is to fully automate your downloads, tailoring them to your preferences. We've put together a set of Radarr profiles and custom formats that are all about hitting specific requirements, making the whole process smarter and more user-friendly.
+I started this project to strip away the technical hassle from torrents and focus on what's important - getting the media you want. The idea is to fully automate your downloads, tailoring them to your preferences. We've put together a set of quality profiles and custom formats that are all about hitting specific requirements:
 
 1. Quality - How good do I want the movie to look?
 2. Efficiency - How big should the file be?
@@ -20,11 +20,12 @@ I started this project to strip away the technical hassle from torrents and focu
 
 ## How?
 
-I've created a [Flowchart](./Profiles/index.md) that turns the answers to these questions into a profile which automates the process in which releases are selected in Radarr.
+I've created a [Flowchart](./Profiles/index.md) that turns the answers to these questions into a quality profile that will be imported into your app of choice (Radarr, Sonarr, Lidarr). This flowchart is currently a work in progress, and not all profiles listed will be available (only Transparent and Optimal so far)
 
 Once you've found your desired profile, check out [Profilarr](./Wiki/Importing%20Profiles%20&%20Custom%20Formats.md) for mass importing custom formats and profiles
 
 ## What Else?
 
-I've tried to streamline and abstract this process as much as possible, but for those of you who wish to iterate on my custom formats and profiles, I've provided the raw
-json for all the custom formats I've used. These can be imported into Radarr / Sonarr and adjusted to suit your needs.
+I've tried to streamline and abstract this process as much as possible, but for those of you who wish to iterate on my custom formats and profiles, I've provided the raw json for all the custom formats I've used. These can be imported into Radarr / Sonarr / Lidarr and adjusted to suit your needs.
+
+Feel free to use Profilarr to export / import / share your own setups too!
