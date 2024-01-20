@@ -1,0 +1,43 @@
+/**
+  * I use .app-container to get around CSS selector specificity
+  */
+
+  .app-container pre[class*="language-note-"] {
+    border: 1px solid;
+  }
+  
+  /* Make the first line of note bold */
+  *[class*="language-note"]::first-line {
+    font-weight: bold;
+  }
+  
+  .app-container pre[class*="language-note-"] code[class*="language-note-"] {
+    color: black;
+    white-space: pre-wrap;       /* css-3 */
+    font-family: var(--default-font);
+  }
+  
+  .app-container pre.language-note-danger {
+    border-color: #bb0101;
+    background-color: #f3bcbc;
+  }
+  
+  .app-container pre.language-note-info {
+    border-color: #3c78b5;
+    background-color: #d8e4f1;
+  }
+  
+  .app-container pre.language-note-warn {
+    border-color: #f0c000;
+    background-color: #ffffce;
+  }
+  
+  .app-container pre.language-note-success {
+    border-color: #009900;
+    background-color: #ddffdd;
+  }
+  
+  .app-container pre.language-note-notice {
+    border-color: #cccccc;
+    background-color: #f3f3f3;
+  }

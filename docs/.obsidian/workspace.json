@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "13d39da1d163903d",
+        "id": "664d1097f83d4bc8",
         "type": "tabs",
         "children": [
           {
-            "id": "a02a72c70bb11bb8",
+            "id": "a966ff582fe1b6f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -129,12 +129,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,18 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a02a72c70bb11bb8",
+  "active": "a966ff582fe1b6f7",
   "lastOpenFiles": [
     "Profiles/Optimal.md",
-    "Custom Formats/HDR.md",
-    "Profiles/Transparent.md",
-    "Wiki/Release Group Tiers.md",
-    "Custom Formats/Release Groups.md",
-    "Wiki/Importing Profiles & Custom Formats.md",
-    "Wiki/Golden Popcorn Performance Index.md",
     "Profiles/index.md",
-    "Custom Formats/Sources.md",
+    "Wiki/Release Group Tiers.md",
+    "Profiles/Immutable.md",
+    "Wiki/Sonarr Release Groups.md",
+    "Wiki/Importing Profiles & Custom Formats.md",
+    "index.md",
+    "Custom Formats/Release Groups.md",
+    "Profiles/Transparent.md",
+    "Wiki/Golden Popcorn Performance Index.md",
     "assets/logo.png",
+    "Custom Formats/HDR.md",
+    "Custom Formats/Sources.md",
     "assets/open-book_1f4d6.png",
     "stylesheets/variables.scss",
     "stylesheets/syntax.scss",

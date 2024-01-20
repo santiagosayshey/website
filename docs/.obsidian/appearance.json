@@ -1,3 +1,9 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "Atom",
+  "enabledCssSnippets": [
+    "blocks",
+    "font"
+  ],
+  "interfaceFontFamily": "Source Sans Pro"
 }

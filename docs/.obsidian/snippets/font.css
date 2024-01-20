@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;700&display=swap");
+
+/* Change font in editor */
+.cm-header {
+  font-family: "Schibsted Grotesk" !important;
+}
+
+/* Header 1 */
+.cm-header.cm-header-1 {
+  font-size: 28px !important; /* or --h1-size for consistency */
+}
+
+/* Header 2 */
+.cm-header.cm-header-2 {
+  font-size: 24px !important; /* or --h2-size */
+}
+
+/* Header 3 */
+.cm-header.cm-header-3 {
+  font-size: 20px !important; /* or --h3-size */
+}
+
+/* Header 4 */
+.cm-header.cm-header-4 {
+  font-size: 18px !important; /* or --h4-size */
+}
+
+/* Header 5 */
+.cm-header.cm-header-5 {
+  font-size: 16px !important;
+}
+
+/* Header 6 */
+.cm-header.cm-header-6 {
+  font-size: 14px !important;
+}
+
+.inline-title {
+  font-family: "Schibsted Grotesk" !important;
+  font-size: 30px !important;
+  color: #7b97aa !important;
+}
+
+.tree-item-inner.nav-folder-title-content {
+  font-family: "Schibsted Grotesk" !important;
+  font-weight: 700 !important;
+  color: #7b97aa !important;
+}
+
+:root {
+  --h1-size: 1.5em;
+  --h2-size: 1.4em;
+  --h3-size: 1.2em;
+  --h4-size: 1.1em;
+  --h5-size: 1.05em;
+  --h6-size: 1em;
+}

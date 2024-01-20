@@ -11,7 +11,7 @@ Welcome to Dictionarry! This project aims to simplify media automation via tailo
 
 I often get questions from friends who I've introduced to torrenting about which releases to grab - is 4k better than 1080p? Should I grab SDR / HDR? Difference between x264/5, etc. The list goes on.
 
-I wanted to create this project to try and abstract the technical nitty gritty from torrents, and turn them into quantifiable questions about the movies they want and fully automate the process of downloading those movies according to their needs. This culminated in a collection of Radarr profiles + custom formats, each of which are designed at fufilling a combination of specific needs:
+I started this project to strip away the technical hassle from torrents and focus on what's important - getting the media you want. The idea is to fully automate your downloads, tailoring them to your preferences. We've put together a set of Radarr profiles and custom formats that are all about hitting specific requirements, making the whole process smarter and more user-friendly.
 
 1. Quality - How good do I want the movie to look?
 2. Efficiency - How big should the file be?

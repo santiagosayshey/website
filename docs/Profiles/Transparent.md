@@ -5,15 +5,12 @@ date: 2023-10-06
 
 ## Overview
 
-The transparent profile aims to provide a balance between quality, size and compatability.
+The transparent profile aims to provide a balance between quality, size and compatibility.
 
 Rather than relying on audio / video metrics to determine transparency, this profile utilises a unique metric, the [Golden Popcorn Performance Index](../Wiki/Golden%20Popcorn%20Performance%20Index.md), to identify release groups known for their consistent output of quality encodes.
-
-### Examples
-Coming soon
 ### Installation
 
-Review the guide on [Importing Profiles & Custom Formats](../Wiki/Importing%20Profiles%20&%20Custom%20Formats.md) to import the necessary custom formats and profiles inside your Radarr installation.
+Review the guide on [Importing Profiles & Custom Formats](../Wiki/Importing%20Profiles%20&%20Custom%20Formats.md) to import the necessary custom formats and profiles inside your Radarr / Sonarr installation.
 
 When prompted to select a profile, choose transparent.
 
@@ -55,7 +52,7 @@ This version of transparent prioritises 1080p encodes and allows SD remuxes and 
 
 ### 720p Fallback
 
-In addition to the previous fallbacks, this version allows grabbing 720p golden popcorns when no reputable 1080p encode of WEB VOD is available. In the case that a 1080p encode from a reputable group is available, it is still prioritised over the 720p golden popcorn.
+In addition to the previous fallbacks, this version allows grabbing 720p golden popcorns when no reputable 1080p encode or a WEB VOD is available. In the case that a 1080p encode from a reputable group is available, it is still prioritised over the 720p golden popcorn.
 
 | Resolution                                      | Source                                                          | Codec                                              | Internal | Audio                                             | Extras                                             | Flags                                                   | Score | Upgrade |
 | ----------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------- | -------- | ------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------- | ----- | ------- |
@@ -119,7 +116,7 @@ In addition to the previous fallbacks, this version allows grabbing 720p golden 
 |2160p||x265|||Features||-9999|
 |||Disc|||||
 
-### Quality Profiles
+## Quality Profiles
 
 |Quality Profiles   |   |
 |---|---|
@@ -152,4 +149,9 @@ Beyond relying on data, the profile also utilizes indexer flags, especially with
 
 ### 4. Quality Profiles and Their Significance
 
-Quality isn't merely about the source. There can be instances where a 4K VOD is 'webripped' to 1080p, offering a superior source compared to a standard 1080p Blu-ray encode. To ensure the best grab, various profiles like WEBRIP, BLURAY, and WEBDL are nested under a 'transparent capable' grouping, ensuring no specific source is prioritized over another.
+Quality isn't merely about the source. There can be instances where a 4K VOD is 'webripped' to 1080p, offering a superior source compared to a standard 1080p Blu-ray encode.
+
+!!! info
+    A 1080p 'WEBRIP' in this scenario isn't actually a WEBRIP in traditional sense (screen captured at a high resolution and then reencoded down to 1080p or less). It's a lossless 4k WEB-DL that has been encoded in x264 down to 1080p (or something like that, I'm not an encoding guru :/). The 4k WEB-DL in these scenarios are a better source than the 1080p bluray. 
+
+ To ensure the best grab, various profiles like WEBRIP, BLURAY, and WEBDL are nested under a 'transparent capable' grouping, ensuring no specific source is prioritized over another.
