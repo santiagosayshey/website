@@ -29,3 +29,9 @@ Once you've found your desired profile, check out [Profilarr](./Wiki/Importing%2
 I've tried to streamline and abstract this process as much as possible, but for those of you who wish to iterate on my custom formats and profiles, I've provided the raw json for all the custom formats I've used. These can be imported into Radarr / Sonarr / Lidarr and adjusted to suit your needs.
 
 Feel free to use Profilarr to export / import / share your own setups too!
+
+# TRASH Guides
+
+Some custom formats found here have been interated on from the trash guides including but not limited to Audio, HDR and low quality. Credit for these goes entirely to trash, and can be found on their site here. It is not my intention to steal their work, but rather to build on it and make it more accessible to the average user. Please check out their site for more information on their work.
+
+https://trash-guides.info/
