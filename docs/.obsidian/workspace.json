@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Profiles/Transparent.md",
+                "file": "Profiles/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Profiles/Transparent.md",
+                "file": "Profiles/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Profiles/Transparent.md",
+                "file": "Profiles/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Profiles/Transparent.md"
+                "file": "Profiles/index.md"
               }
             }
           }
@@ -169,14 +169,15 @@
   },
   "active": "fc366eb143d51244",
   "lastOpenFiles": [
-    "Introduction Dictionarry - A collection of tailored Quality Profiles & Custom Formats for Radarr  Sonarr.md",
-    "Introducing Dictionarry - A collection of Quality Profiles & Custom Formats for Radarr & Sonarr.md",
-    "Profiles/Transparent.md",
-    "index.md",
-    "Profiles/Untitled.canvas",
     "Profiles/Optimal.md",
+    "Profiles/Profile Encyclopedia.md",
+    "Profiles/Transparent.md",
     "Profiles/index.md",
     "Profiles/flowchart.png",
+    "Introduction Dictionarry - A collection of tailored Quality Profiles & Custom Formats for Radarr  Sonarr.md",
+    "Introducing Dictionarry - A collection of Quality Profiles & Custom Formats for Radarr & Sonarr.md",
+    "index.md",
+    "Profiles/Untitled.canvas",
     "Wiki/Release Group Tiers.md",
     "Profiles/Immutable.md",
     "Wiki/Sonarr Release Groups.md",
