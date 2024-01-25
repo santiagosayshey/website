@@ -10,6 +10,8 @@ This profile prioritises high quality WEB sources i.e. Movies Anywhere, Amazon a
 
 In addition to tier 1 WEB sources, a special consideration for encodes by *BHDStudio* has been added to the scoring breakdown. While not preferred over the tier 1 WEB sources, they are ranked above any other Blu-ray encodes due to their emphasis on streaming optimised encodes. They are not ranked higher than WEB tier 1 sources due to their lack of subtitles. They're roughly equivalent to a high to mid tier WEB source in terms of fidelity. These encodes are extremely useful as many releases don't have a streaming option available. 
 
+It is recommended that you have access to HUNO - a private BitTorrent tracker dedicated to h265 releases. Without this indexer, the profile will resort to fallbacks almost every search.
+
 ### Installation
 
 Review the guide on [Importing Profiles & Custom Formats](../Wiki/Importing%20Profiles%20&%20Custom%20Formats.md) to import the necessary custom formats and profiles inside your Radarr / Sonarr installation.
