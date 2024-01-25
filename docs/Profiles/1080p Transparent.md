@@ -45,6 +45,7 @@ When prompted to select a profile, choose 1080p transparent in your preferred im
 | 2160p |  | BD Remux |  | DTS-HD MA |  |  |  |  |
 |  |  | Disc |  | DTS-X |  |  |  |  |
 
+
 A breakdown of each of the internal tiers can be found here: [Release Group Tiers](../Wiki/Release%20Group%20Tiers.md)
 ## Quality Profiles
 

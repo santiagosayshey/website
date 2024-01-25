@@ -50,6 +50,7 @@ When prompted to select a profile, choose 1080p Balanced in your preferred immut
 | 720p |  | BD Remux |  | TrueHD | Special Features |  | -9999 |  |
 | 2160p |  |  |  | DTS-HD MA |  |  |  |  |
 |  |  |  |  | DTS-X |  |  |  |  |
+
 A breakdown of each of the internal tiers can be found here: [Release Group Tiers](../Wiki/Release%20Group%20Tiers.md)
 
 ## Quality Profiles

@@ -50,6 +50,7 @@ When prompted to select a profile, choose 1080p h265 Balanced in your preferred 
 | 720p |  | BD Remux |  | TrueHD | Special Features |  | -9999 |  |
 | 2160p |  | x265 |  | DTS-HD MA |  |  |  |  |
 |  |  | h265 |  | DTS-X |  |  |  |  |
+
 A breakdown of each of the internal tiers can be found here: [Release Group Tiers](../Wiki/Release%20Group%20Tiers.md)
 
 ## Quality Profiles
