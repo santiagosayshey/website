@@ -52,10 +52,9 @@ nav:
       - "Sources": "Custom Formats/Sources.md"
   - "Profiles":
       - "Index": "Profiles/index.md"
-      - "Optimal": "Profiles/Optimal.md"
-      - "Profile Encyclopedia": "Profiles/Profile Encyclopedia.md"
-      - "Transparent": "Profiles/Transparent.md"
-      - "Selectarr Tool": "https://selectarr.pages.dev"
+      - "Profile Selector": "https://selectarr.pages.dev"
+      - "4K Remux": "Profiles/Optimal.md"
+      - "1080p x264 Encode": "Profiles/Transparent.md"
   - "Wiki":
       - "Golden Popcorn Performance Index": "Wiki/Golden Popcorn Performance Index.md"
       - "Importing Profiles & Custom Formats": "Wiki/Importing Profiles & Custom Formats.md"
