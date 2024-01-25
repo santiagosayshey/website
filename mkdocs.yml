@@ -53,8 +53,8 @@ nav:
   - "Profiles":
       - "Index": "Profiles/index.md"
       - "Profile Selector": "https://selectarr.pages.dev"
-      - "4K Remux": "Profiles/Optimal.md"
-      - "1080p x264 Encode": "Profiles/Transparent.md"
+      - "4K Remux": "Profiles/4k Remux.md"
+      - "1080p x264 Encode": "Profiles/1080p x264 Encode.md"
   - "Wiki":
       - "Golden Popcorn Performance Index": "Wiki/Golden Popcorn Performance Index.md"
       - "Importing Profiles & Custom Formats": "Wiki/Importing Profiles & Custom Formats.md"
