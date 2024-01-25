@@ -19,7 +19,7 @@ I started this project to strip away the technical hassle and focus on what's im
 
 ## How It Works
 
-The core of this project is the [Profile Selector](https://selectarr.pages.dev/), a tool designed to guide users in choosing the right quality profile for their needs. This project is constantly evolving, so existing profiles are subject to change and new profiles will pop up all the time. Not all profiles in the Profile Selector are available but are currently being worked on. For now, check out the 1080p x264 Encode and 4K remux profiles. For a full roadmap of the profiles being worked on, check out the [Master Profile List](Profiles/index.md).
+The core of this project is the [Profile Selector](https://selectarr.pages.dev/), a tool designed to guide users in choosing the right quality profile for their needs. This project is constantly evolving, so existing profiles are subject to change and new profiles will pop up all the time. Not all profiles in the Profile Selector are available but are currently being worked on. For now, check out the 1080p x264 Encode and 4K remux profiles. For a full roadmap of the profiles being worked on, check out the [Master Profile List](Profiles/Home.md).
 
 Once you've found your desired profile, check out [Profilarr](./Wiki/Importing%20Profiles%20&%20Custom%20Formats.md) for mass importing custom formats and profiles. This is another project I've been working on designed to make importing / exporting easier. It can also be used to easily sync CF's and QP's across multiple instances of Radarr / Sonarr in a single command.
 

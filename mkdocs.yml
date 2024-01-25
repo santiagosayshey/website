@@ -51,7 +51,7 @@ nav:
       - "Resolutions": "Custom Formats/Resolutions.md"
       - "Sources": "Custom Formats/Sources.md"
   - "Profiles":
-      - "Index": "Profiles/index.md"
+      - "Home": "Profiles/index.md"
       - "Profile Selector": "https://selectarr.pages.dev"
       - "4K Remux": "Profiles/4k Remux.md"
       - "1080p x264 Encode": "Profiles/1080p x264 Encode.md"
