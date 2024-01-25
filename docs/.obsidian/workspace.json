@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Profiles/Transparent.md",
+                "file": "Profiles/Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Profiles/Transparent.md",
+                "file": "Profiles/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Profiles/Transparent.md",
+                "file": "Profiles/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Profiles/Transparent.md"
+                "file": "Profiles/Home.md"
               }
             }
           }
@@ -170,9 +170,9 @@
   },
   "active": "bfcb56d049482dfc",
   "lastOpenFiles": [
+    "Profiles/Transparent.md",
     "Profiles/Home.md",
     "Profiles/4k Remux.md",
-    "Profiles/Transparent.md",
     "index.md",
     "Profiles/flowchart.png",
     "Introduction Dictionarry - A collection of tailored Quality Profiles & Custom Formats for Radarr  Sonarr.md",
