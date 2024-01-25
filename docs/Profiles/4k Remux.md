@@ -1,11 +1,11 @@
 ---
-title: 4k Remux
+title: 2160p Remux
 date: 2023-10-06
 ---
 
 ## Overview
 
-The optimal profile aims to select the best possible release of a movie, regardless of file size or compatibility. Audio and video metrics are used to determine which is the best release, rather than release group. 
+The optimal profile aims to select the best possible release of a movie, regardless of file size or compatibility. Audio and video metrics are used to determine which is the best release, rather than release group.
 
 Update: This profile will experience a major shift to be release group focused soon. It will be a lot more consistent.
 
@@ -16,28 +16,29 @@ Review the guide on [Importing Profiles & Custom Formats](../Wiki/Importing%20Pr
 When prompted to select a profile, choose optimal.
 
 ## Score Breakdown
-| Resolution | Source | Codec | Tracker | Audio | HDR | Extras | Score | Upgrade |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 2160p | Blu-Ray | BD Remux |  | DTS-X |  |  | 60 | 320 |
-|  | Movies Anywhere |  |  | TrueHD |  |  | 50 |  |
-|  |  |  |  | DTS-HD MA |  |  |  |  |
-|  | Amazon Prime |  |  |  |  |  | 40 |  |
-|  | Apple TV+ |  |  |  |  |  |  |  |
-|  | Disney+ |  |  | FLAC | DV |  | 30 |  |
-|  | Netflix |  |  |  |  |  |  |  |
-|  | HBOMax |  |  |  |  |  |  |  |
-|  | Hulu |  |  |  | HDR10+ |  | 20 |  |
-|  | Peacock |  |  |  |  |  |  |  |
-|  | Paramount+ |  |  |  |  |  |  |  |
-|  | Roku |  |  |  |  |  |  |  |
-|  | iTunes |  |  | Atmos | HDR10 |  | 10 |  |
-|  |  |  |  | DD+ |  | Special Edition | 0 |  |
-|  |  |  |  | DTS |  |  |  |  |
-|  |  |  |  | DD |  |  |  |  |
-| 480p | WEBRIP | Xvid | UHDBits |  | DV w/out Fallback |  | -9999 |  |
-| 720p | DVD | x264 |  |  |  |  |  |  |
-| 1080p |  | x265 |  |  |  |  |  |  |
-|  |  | DVD Remux |  |  |  |  |  |  |
+
+| Resolution | Source          | Codec     | Tracker | Audio     | HDR               | Extras          | Score | Upgrade |
+| ---------- | --------------- | --------- | ------- | --------- | ----------------- | --------------- | ----- | ------- |
+| 2160p      | Blu-Ray         | BD Remux  |         | DTS-X     |                   |                 | 60    | 320     |
+|            | Movies Anywhere |           |         | TrueHD    |                   |                 | 50    |         |
+|            |                 |           |         | DTS-HD MA |                   |                 |       |         |
+|            | Amazon Prime    |           |         |           |                   |                 | 40    |         |
+|            | Apple TV+       |           |         |           |                   |                 |       |         |
+|            | Disney+         |           |         | FLAC      | DV                |                 | 30    |         |
+|            | Netflix         |           |         |           |                   |                 |       |         |
+|            | HBOMax          |           |         |           |                   |                 |       |         |
+|            | Hulu            |           |         |           | HDR10+            |                 | 20    |         |
+|            | Peacock         |           |         |           |                   |                 |       |         |
+|            | Paramount+      |           |         |           |                   |                 |       |         |
+|            | Roku            |           |         |           |                   |                 |       |         |
+|            | iTunes          |           |         | Atmos     | HDR10             |                 | 10    |         |
+|            |                 |           |         | DD+       |                   | Special Edition | 0     |         |
+|            |                 |           |         | DTS       |                   |                 |       |         |
+|            |                 |           |         | DD        |                   |                 |       |         |
+| 480p       | WEBRIP          | Xvid      | UHDBits |           | DV w/out Fallback |                 | -9999 |         |
+| 720p       | DVD             | x264      |         |           |                   |                 |       |         |
+| 1080p      |                 | x265      |         |           |                   |                 |       |         |
+|            |                 | DVD Remux |         |           |                   |                 |       |         |
 
 ## The Essence of Optimal
 

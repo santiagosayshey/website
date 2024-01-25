@@ -5,7 +5,7 @@ date: 2023-10-06
 
 ## Overview
 
-The 1080p transparent profile aims to provide a balance between quality, size and compatibility.
+The 1080p transparent profile aims to provide a balance between quality, size and compatibility. It is available in 3 formats - Full, Single Upgrades and Double Upgrades. These formats affect only the immutability of the profile.
 
 Rather than relying on audio / video metrics to determine transparency, this profile utilises a unique metric, the [Golden Popcorn Performance Index](../Wiki/Golden%20Popcorn%20Performance%20Index.md), to identify release groups known for their consistent output of quality encodes.
 
@@ -13,7 +13,7 @@ Rather than relying on audio / video metrics to determine transparency, this pro
 
 Review the guide on [Importing Profiles & Custom Formats](../Wiki/Importing%20Profiles%20&%20Custom%20Formats.md) to import the necessary custom formats and profiles inside your Radarr / Sonarr installation.
 
-When prompted to select a profile, choose 1080p transparent.
+When prompted to select a profile, choose 1080p transparent, and then your preferred immutability. 
 
 ## Score Breakdown
 | Resolution | Source | Codec | Internal | Audio | Extras | Flags | Score | Upgrade |
@@ -46,11 +46,9 @@ When prompted to select a profile, choose 1080p transparent.
 |  |  | Disc |  | DTS-X |  |  |  |  |
 
 A breakdown of each of the internal tiers can be found here: [Release Group Tiers](../Wiki/Release%20Group%20Tiers.md)
-
-This profile does rely on the \*arr upgrade system, so expect files to be downloaded multiple times (examples of this are outlined in the nuances section below). If you don't want to deal with multiple upgrades, the "Upgrade Until" score can be lowered to your preference!
 ## Quality Profiles
 
-- The custom format system does the heavy lifting in prioritising releases, but specific quality profiles are useful in catching some strays that make it past. Specifically, some pesky SD encodes. 99% releases are covered by Custom formats anyway, so it's not a big deal.
+The custom format system does the heavy lifting in prioritising releases, but specific quality profiles are useful in catching some strays that make it past. Specifically, some pesky SD encodes. 99% releases are covered by Custom formats anyway, so it's not a big deal.
 
 |Quality Profiles   |   |
 |---|---|
