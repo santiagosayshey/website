@@ -29,7 +29,7 @@ To access the Profile Selector, click [here:](https://selectarr.pages.dev/)
 | Balanced | Moderate | Standard | 1080p Balanced | 5 - 10gb |
 | Balanced | Moderate | Bleeding Edge | 1080p h265 Balanced | 4 - 8gb |
 | Balanced | Soft | Legacy | 720p Transparent | 5 - 10gb |
-| Balanced | Soft | Standard | 1080p Balanced | 5 - 10gb |
+| Balanced | Soft | Standard | 720p Transparent | 5 - 10gb |
 | Balanced | Soft | Bleeding Edge | 1080p h265 Balanced | 4 - 8gb |
 | Minimal | Hard | Legacy | SD Legacy | < 1gb |
 | Minimal | Hard | Standard | SD Transparent | < 5gb |

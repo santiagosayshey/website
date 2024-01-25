@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Profiles/1080p Transparent.md",
+                "file": "Profiles/2160p Optimal.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7e8013563be5473f",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Profiles/Home.md",
+                "file": "Profiles/2160p Optimal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Profiles/Home.md",
+                "file": "Profiles/2160p Optimal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Profiles/Home.md"
+                "file": "Profiles/2160p Optimal.md"
               }
             }
           }
@@ -161,11 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16ccda12380aec36",
+  "active": "8df138d785cd9649",
   "lastOpenFiles": [
     "Profiles/1080p Transparent.md",
+    "Profiles/2160p Optimal.md",
     "Profiles/Home.md",
-    "Profiles/4k Remux.md",
     "index.md",
     "Profiles/flowchart.png",
     "Introduction Dictionarry - A collection of tailored Quality Profiles & Custom Formats for Radarr  Sonarr.md",

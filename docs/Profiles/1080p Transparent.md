@@ -5,7 +5,7 @@ date: 2023-10-06
 
 ## Overview
 
-The 1080p transparent profile aims to provide a balance between quality, size and compatibility. It is available in 3 formats - Full, Single Upgrades and Double Upgrades. These formats affect only the immutability of the profile.
+The 1080p transparent profile aims to provide a balance between quality, size and compatibility. It is available in 3 formats - Full, Single Grab and Double Grab. These formats affect only the immutability of the profile.
 
 Rather than relying on audio / video metrics to determine transparency, this profile utilises a unique metric, the [Golden Popcorn Performance Index](../Wiki/Golden%20Popcorn%20Performance%20Index.md), to identify release groups known for their consistent output of quality encodes.
 

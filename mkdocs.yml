@@ -53,7 +53,7 @@ nav:
   - "Profiles":
       - "Home": "Profiles/Home.md"
       - "Profile Selector": "https://selectarr.pages.dev"
-      - "2160p Remux": "Profiles/4k Remux.md"
+      - "2160p Optimal": "Profiles/2160p Optimal.md"
       - "1080p Transparent": "Profiles/1080p Transparent.md"
   - "Wiki":
       - "Golden Popcorn Performance Index": "Wiki/Golden Popcorn Performance Index.md"
