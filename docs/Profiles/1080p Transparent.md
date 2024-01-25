@@ -5,7 +5,7 @@ date: 2023-10-06
 
 ## Overview
 
-The 1080p transparent profile aims to provide a balance between quality, size and compatibility. It is available in 3 formats - Full, Single Grab and Double Grab. These formats affect only the immutability of the profile.
+The 1080p Transparent profile aims to provide a balance between quality, size and compatibility. It is available in 3 formats - Full, Single Grab and Double Grab. These formats affect only the immutability of the profile.
 
 Rather than relying on audio / video metrics to determine transparency, this profile utilises a unique metric, the [Golden Popcorn Performance Index](../Wiki/Golden%20Popcorn%20Performance%20Index.md), to identify release groups known for their consistent output of quality encodes.
 
@@ -13,7 +13,7 @@ Rather than relying on audio / video metrics to determine transparency, this pro
 
 Review the guide on [Importing Profiles & Custom Formats](../Wiki/Importing%20Profiles%20&%20Custom%20Formats.md) to import the necessary custom formats and profiles inside your Radarr / Sonarr installation.
 
-When prompted to select a profile, choose 1080p transparent, and then your preferred immutability. 
+When prompted to select a profile, choose 1080p transparent in your preferred immutability. 
 
 ## Score Breakdown
 | Resolution | Source | Codec | Internal | Audio | Extras | Flags | Score | Upgrade |
