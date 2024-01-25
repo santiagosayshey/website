@@ -1,11 +1,11 @@
 ---
-title: 1080p x264 Encodes
+title: 1080p Transparent
 date: 2023-10-06
 ---
 
 ## Overview
 
-The transparent profile aims to provide a balance between quality, size and compatibility.
+The 1080p transparent profile aims to provide a balance between quality, size and compatibility.
 
 Rather than relying on audio / video metrics to determine transparency, this profile utilises a unique metric, the [Golden Popcorn Performance Index](../Wiki/Golden%20Popcorn%20Performance%20Index.md), to identify release groups known for their consistent output of quality encodes.
 
@@ -13,7 +13,7 @@ Rather than relying on audio / video metrics to determine transparency, this pro
 
 Review the guide on [Importing Profiles & Custom Formats](../Wiki/Importing%20Profiles%20&%20Custom%20Formats.md) to import the necessary custom formats and profiles inside your Radarr / Sonarr installation.
 
-When prompted to select a profile, choose transparent.
+When prompted to select a profile, choose 1080p transparent.
 
 ## Score Breakdown
 | Resolution | Source | Codec | Internal | Audio | Extras | Flags | Score | Upgrade |

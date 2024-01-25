@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Profiles/Home.md",
+                "file": "Profiles/1080p Transparent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8df138d785cd9649",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Profiles/1080p Transparent.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,12 +47,16 @@
             "id": "16ccda12380aec36",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Profiles/Home.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -90,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7e8013563be5473f",
@@ -168,9 +185,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bfcb56d049482dfc",
+  "active": "16ccda12380aec36",
   "lastOpenFiles": [
-    "Profiles/Transparent.md",
+    "Profiles/1080p Transparent.md",
     "Profiles/Home.md",
     "Profiles/4k Remux.md",
     "index.md",

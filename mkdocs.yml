@@ -51,10 +51,10 @@ nav:
       - "Resolutions": "Custom Formats/Resolutions.md"
       - "Sources": "Custom Formats/Sources.md"
   - "Profiles":
-      - "Home": "Profiles/home.md"
+      - "Home": "Profiles/Home.md"
       - "Profile Selector": "https://selectarr.pages.dev"
       - "4K Remux": "Profiles/4k Remux.md"
-      - "1080p x264 Encode": "Profiles/1080p x264 Encode.md"
+      - "1080p Transparent": "Profiles/1080p Transparent.md"
   - "Wiki":
       - "Golden Popcorn Performance Index": "Wiki/Golden Popcorn Performance Index.md"
       - "Importing Profiles & Custom Formats": "Wiki/Importing Profiles & Custom Formats.md"
