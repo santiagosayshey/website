@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f554d2db337c7c80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wiki/Importing Profiles & Custom Formats.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "23662c8786f5c2b6",
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Profiles/1080p Balanced.md",
+                "file": "Wiki/Importing Profiles & Custom Formats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Profiles/1080p Balanced.md",
+                "file": "Wiki/Importing Profiles & Custom Formats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Profiles/1080p Balanced.md"
+                "file": "Wiki/Importing Profiles & Custom Formats.md"
               }
             }
           }
@@ -177,11 +190,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd80d8e804fc9714",
+  "active": "f554d2db337c7c80",
   "lastOpenFiles": [
-    "Profiles/1080p h265 Balanced.md",
     "Profiles/1080p Transparent.md",
     "Profiles/1080p Balanced.md",
+    "Profiles/1080p h265 Balanced.md",
     "Profiles/2160p Optimal.md",
     "Profiles/Home.md",
     "index.md",
