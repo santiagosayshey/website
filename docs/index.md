@@ -13,14 +13,13 @@ Navigating the world of media quality and formats can be overwhelming. Questions
 
 I started this project to strip away the technical hassle and focus on what's important - getting the media you want. The idea is to fully automate your \*arr setup, tailoring them to your preferences. I've put together a set of quality profiles and custom formats that are all about hitting specific requirements:
 
-1. Quality - How good do I want the movie to look?
-2. Efficiency - How big should the file be?
-3. Universality - Can I play it on my machine?
-4. Immutability - Do I want to upgrade if a better version comes out?
+1. Quality - A measure of visual and audio fidelity
+2. Compatibility - Ensures your media files work well with your devices and software
+3. Immutability - Determines if a file might be replaced with a better version
 
 ## How It Works
 
-The core of this project is a [Flowchart](./Profiles/index.md) designed to guide users in choosing the right quality profile for their needs. It's a work in progress, with more profiles to be added soon. For now, check out the "Transparent" and "Optimal" profiles.
+The core of this project is the [Profile Selector](https://selectarr.pages.dev/), a tool designed to guide users in choosing the right quality profile for their needs. This project is constantly evolving, so existing profiles are subject to change and new profiles will pop up all the time. Not all profiles in the Profile Selector are available but are currently being worked on. For now, check out the 1080p x264 Encode and 4K remux profiles. For a full roadmap of the profiles being worked on, check out the [index](Profiles/index.md).
 
 Once you've found your desired profile, check out [Profilarr](./Wiki/Importing%20Profiles%20&%20Custom%20Formats.md) for mass importing custom formats and profiles. This is another project I've been working on designed to make importing / exporting easier. It can also be used to easily sync CF's and QP's across multiple instances of Radarr / Sonarr in a single command.
 
@@ -30,6 +29,6 @@ I've tried to streamline and abstract this process as much as possible, but for 
 
 Feel free to use Profilarr to export / import / share your own setups too!
 
-# TRASH Guides
+# # TRaSH Guides
 
 Some custom formats found here have been interated on from the trash guides. Credit for these goes entirely to trash, and can be found on their site [here](https://trash-guides.info/). It is not my intention to steal their work, but rather to build on it and make it more accessible to the average user through my quality profiles. Please check out their site for more information on their work.

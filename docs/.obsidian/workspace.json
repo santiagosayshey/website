@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a966ff582fe1b6f7",
+            "id": "fc366eb143d51244",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Profiles/index.md",
+                "file": "Profiles/4k Remux.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fc366eb143d51244",
+            "id": "bfcb56d049482dfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Profiles/index.md",
+                "file": "Profiles/1080p x264 Encode.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Profiles/index.md",
+                "file": "Profiles/1080p x264 Encode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Profiles/index.md",
+                "file": "Profiles/1080p x264 Encode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Profiles/index.md"
+                "file": "Profiles/1080p x264 Encode.md"
               }
             }
           }
@@ -167,16 +167,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc366eb143d51244",
+  "active": "bfcb56d049482dfc",
   "lastOpenFiles": [
-    "Profiles/Optimal.md",
-    "Profiles/Profile Encyclopedia.md",
-    "Profiles/Transparent.md",
     "Profiles/index.md",
+    "Profiles/4k Remux.md",
+    "index.md",
     "Profiles/flowchart.png",
+    "Profiles/1080p x264 Encode.md",
     "Introduction Dictionarry - A collection of tailored Quality Profiles & Custom Formats for Radarr  Sonarr.md",
     "Introducing Dictionarry - A collection of Quality Profiles & Custom Formats for Radarr & Sonarr.md",
-    "index.md",
     "Profiles/Untitled.canvas",
     "Wiki/Release Group Tiers.md",
     "Profiles/Immutable.md",

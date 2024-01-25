@@ -37,3 +37,26 @@ markdown_extensions:
 extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+nav:
+  - "Ahoy!": "index.md"
+  - "Custom Formats":
+      - "Audio": "Custom Formats/Audio.md"
+      - "Codecs": "Custom Formats/Codecs.md"
+      - "Editions": "Custom Formats/Editions.md"
+      - "Extras": "Custom Formats/Extras.md"
+      - "Flags": "Custom Formats/Flags.md"
+      - "HDR": "Custom Formats/HDR.md"
+      - "Release Groups": "Custom Formats/Release Groups.md"
+      - "Resolutions": "Custom Formats/Resolutions.md"
+      - "Sources": "Custom Formats/Sources.md"
+  - "Profiles":
+      - "Index": "Profiles/index.md"
+      - "Optimal": "Profiles/Optimal.md"
+      - "Profile Encyclopedia": "Profiles/Profile Encyclopedia.md"
+      - "Transparent": "Profiles/Transparent.md"
+      - "Selectarr Tool": "https://selectarr.pages.dev"
+  - "Wiki":
+      - "Golden Popcorn Performance Index": "Wiki/Golden Popcorn Performance Index.md"
+      - "Importing Profiles & Custom Formats": "Wiki/Importing Profiles & Custom Formats.md"
+      - "Release Group Tiers": "Wiki/Release Group Tiers.md"
