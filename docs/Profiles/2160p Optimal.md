@@ -5,7 +5,7 @@ date: 2023-10-06
 
 ## Overview
 
-The optimal profile aims to select the best possible release of a movie, regardless of file size or compatibility. Audio and video metrics are used to determine which is the best release, rather than release group.
+The optimal profile aims to select the best possible release of a movie, regardless of file size or compatibility. Audio and video metrics are used to determine which is the best release, rather than release group. It is available in 3 formats - Full, Single Grab and Double Grab. These formats affect only the immutability of the profile.
 
 Update: This profile will experience a major shift to be release group focused soon. It will be a lot more consistent.
 
@@ -13,7 +13,7 @@ Update: This profile will experience a major shift to be release group focused s
 
 Review the guide on [Importing Profiles & Custom Formats](../Wiki/Importing%20Profiles%20&%20Custom%20Formats.md) to import the necessary custom formats and profiles inside your Radarr installation.
 
-When prompted to select a profile, choose optimal.
+When prompted to select a profile, choose 2160p optimal in your preferred immutability. 
 
 ## Score Breakdown
 
@@ -39,6 +39,12 @@ When prompted to select a profile, choose optimal.
 | 720p       | DVD             | x264      |         |           |                   |                 |       |         |
 | 1080p      |                 | x265      |         |           |                   |                 |       |         |
 |            |                 | DVD Remux |         |           |                   |                 |       |         |
+
+## Quality Profiles
+| Quality Profiles |
+| ---- |
+| 2160p Remux |
+| 2160p WEB-DL |
 
 ## The Essence of Optimal
 
