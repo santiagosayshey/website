@@ -27,14 +27,12 @@ When prompted to select a profile, choose 1080p optimal in your preferred immuta
 |  | Paramount+ |  |  |  |  |  |  |  |  |  |
 |  | Roku |  |  |  |  |  |  |  |  |  |
 |  | iTunes | x264 |  |  | Atmos |  | IMAX |  | 10 |  |
-|  |  |  |  |  |  |  |  |  |  |  |
 | 480p |  | Xvid |  |  | DD+ |  | Special Edition |  | 0 |  |
 |  |  |  |  |  | DTS |  |  |  |  |  |
 |  |  |  |  |  | DD |  |  |  |  |  |
 |  | WEBRIP |  |  | UHDBits |  | HDR10 |  |  | -9999 |  |
 | 720p | DVD |  |  |  |  | HDR10+ |  |  |  |  |
 | 2160p |  | x265 |  |  |  | Dolby Vision |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
 
 A breakdown of each of the internal tiers can be found here: [Release Group Tiers](../Wiki/Release%20Group%20Tiers.md)
 ## Quality Profiles

@@ -97,7 +97,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Profiles/1080p Balanced.md",
+                "file": "Profiles/1080p Optimal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Profiles/1080p Balanced.md",
+                "file": "Profiles/1080p Optimal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Profiles/1080p Balanced.md"
+                "file": "Profiles/1080p Optimal.md"
               }
             }
           }
@@ -225,10 +226,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "96a065a1b1c5605d",
+  "active": "4f163c0d13598b92",
   "lastOpenFiles": [
-    "Profiles/1080p h265 Balanced.md",
     "Profiles/1080p Balanced.md",
+    "Profiles/1080p h265 Balanced.md",
     "Profiles/1080p Optimal.md",
     "Profiles/2160p Optimal.md",
     "index.md",
