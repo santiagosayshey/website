@@ -54,6 +54,7 @@ nav:
       - "Home": "Profiles/Home.md"
       - "Profile Selector": "https://selectarr.pages.dev"
       - "2160p Optimal": "Profiles/2160p Optimal.md"
+      - "1080p Optimal": "Profiles/1080 Optimal.md"
       - "1080p Transparent": "Profiles/1080p Transparent.md"
       - "1080p Balanced": "Profiles/1080p Balanced.md"
       - "1080p h265 Balanced": "Profiles/1080p h265 Balanced.md"
