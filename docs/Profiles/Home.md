@@ -1,42 +1,37 @@
 This page contains the master copy of all (projected) profiles. Mostly complete, but subject to changes. 
 
 To access the Profile Selector, click [here:](https://selectarr.pages.dev/)
+# Master List
+| Profile | Projected Size |
+| ---- | ---- |
+| [2160p Optimal](./2160p%20Optimal.md) | > 50gb |
+| [1080p Optimal](./1080p%20Optimal.md) | 20 - 40gb |
+| 2160p Transparent | 20 - 40gb |
+| 2160p Balanced | 20 - 30gb |
+| 1080p HDR Transparent | 15 - 20gb |
+| [1080p Transparent](./1080p%20Transparent.md) | 10 - 15gb |
+| 1080p x265 Transparent | 5 - 10gb |
+| [1080p Balanced](./1080p%20Balanced.md) | 5 - 10gb |
+| [1080p h265 Balanced](./1080p%20h265%20Balanced.md) | 4 - 8gb |
+| 720p Transparent | 5 - 10gb |
+| SD Transparent | < 6gb |
+| Minimal | < 3gb |
+| SD Legacy | < 1gb |
 
-| Quality | Immutability | Compatibility | Profile | Projected Size |
-| ---- | ---- | ---- | ---- | ---- |
-| Optimal | Hard | Legacy | 2160p Balanced (Single Grab) | 20 - 30gb |
-| Optimal | Hard | Standard | 1080p Optimal (Single Grab) | 30 - 40gb |
-| Optimal | Hard | Bleeding Edge | 2160p Optimal (Single Grab) | > 50gb |
-| Optimal | Moderate | Legacy | 2160p Balanced | 20 - 30gb |
-| Optimal | Moderate | Standard | 1080p Optimal (Double Grab) | 30 - 40gb |
-| Optimal | Moderate | Bleeding Edge | 2160p Optimal (Double Grab) | > 50gb |
-| Optimal | Soft | Legacy | 2160p Transparent | 20-40gb |
-| Optimal | Soft | Standard | 1080p Optimal | 30 - 40gb |
-| Optimal | Soft | Bleeding Edge | 2160p Optimal | > 50gb |
-| Transparent | Hard | Legacy | 1080p Transparent (Single Grab) | 10 - 15gb |
-| Transparent | Hard | Standard | 1080p x265 Transparent (Single Grab) | 5 - 10gb |
-| Transparent | Hard | Bleeding Edge | 1080p HDR Transparent (Single Grab) | 15 - 20gb |
-| Transparent | Moderate | Legacy | 1080p Transparent (Double Grab) | 10 - 15gb |
-| Transparent | Moderate | Standard | 1080p x265 Transparent (Double Grab) | 5 - 10gb |
-| Transparent | Moderate | Bleeding Edge | 1080p HDR Transparent (Double Grab) | 15 - 20gb |
-| Transparent | Soft | Legacy | 1080p Transparent | 10 - 15gb |
-| Transparent | Soft | Standard | 1080p x265 Transparent | 5 - 10gb |
-| Transparent | Soft | Bleeding Edge | 1080p HDR Transparent | 15 - 20gb |
-| Balanced | Hard | Legacy | 1080p WEB-DL (Single Grab) | 5 - 10gb |
-| Balanced | Hard | Standard | 1080p WEB-DL (Single Grab) | 5 - 10gb |
-| Balanced | Hard | Bleeding Edge | 1080p h265 WEB-DL (Single Grab) | 4 - 8gb |
-| Balanced | Moderate | Legacy | 1080p Balanced | 5 - 10gb |
-| Balanced | Moderate | Standard | 1080p Balanced | 5 - 10gb |
-| Balanced | Moderate | Bleeding Edge | 1080p h265 Balanced | 4 - 8gb |
-| Balanced | Soft | Legacy | 720p Transparent | 5 - 10gb |
-| Balanced | Soft | Standard | 720p Transparent | 5 - 10gb |
-| Balanced | Soft | Bleeding Edge | 1080p h265 Balanced | 4 - 8gb |
-| Minimal | Hard | Legacy | SD Legacy | < 1gb |
-| Minimal | Hard | Standard | SD Transparent | < 5gb |
-| Minimal | Hard | Bleeding Edge | Micro Minimal | < 3gb |
-| Minimal | Moderate | Legacy | SD Legacy | < 1gb |
-| Minimal | Moderate | Standard | SD Transparent | < 5gb |
-| Minimal | Moderate | Bleeding Edge | Micro Minimal | < 3gb |
-| Minimal | Soft | Legacy | SD Legacy | < 1gb |
-| Minimal | Soft | Standard | SD Transparent | < 5gb |
-| Minimal | Soft | Bleeding Edge | Micro Minimal | < 3gb |
+# Immutability List
+
+| Profile Name | All Grabs | Double Grab | Single Grab |
+| ------------ | --------- | ----------- | ----------- |
+| [2160p Optimal](./2160p%20Optimal.md) | ✓ | ✓ | ✓ |
+| [1080p Optimal](./1080p%20Optimal.md) | ✓ | ✓ | ✓ |
+| 2160p Transparent | ✓ | ✗ | ✗ |
+| 2160p Balanced | ✓ | ✗ | ✓ |
+| 1080p HDR Transparent | ✓ | ✓ | ✓ |
+| [1080p Transparent](./1080p%20Transparent.md) | ✓ | ✓ | ✓ |
+| 1080p x265 Transparent | ✓ | ✓ | ✓ |
+| [1080p Balanced](./1080p%20Balanced.md) | ✓ | ✗ | ✓ |
+| [1080p h265 Balanced](./1080p%20h265%20Balanced.md) | ✓ | ✗ | ✓ |
+| 720p Transparent | ✗ | ✗ | ✓ |
+| SD Transparent | ✗ | ✗ | ✓ |
+| Minimal | ✗ | ✗ | ✓ |
+| SD Legacy | ✗ | ✗ | ✓ |

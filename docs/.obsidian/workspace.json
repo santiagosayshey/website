@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Profiles/1080p Optimal.md",
+                "file": "Profiles/Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Profiles/1080p Optimal.md",
+                "file": "Profiles/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Profiles/1080p Optimal.md",
+                "file": "Profiles/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Profiles/1080p Optimal.md"
+                "file": "Profiles/Home.md"
               }
             }
           }
@@ -228,14 +228,14 @@
   },
   "active": "4f163c0d13598b92",
   "lastOpenFiles": [
+    "Profiles/2160p Optimal.md",
+    "Profiles/Home.md",
+    "Profiles/1080p Optimal.md",
+    "Profiles/1080p Transparent.md",
     "Profiles/1080p Balanced.md",
     "Profiles/1080p h265 Balanced.md",
-    "Profiles/1080p Optimal.md",
-    "Profiles/2160p Optimal.md",
     "index.md",
-    "Profiles/1080p Transparent.md",
     "Wiki/Importing Profiles & Custom Formats.md",
-    "Profiles/Home.md",
     "Profiles/flowchart.png",
     "Introduction Dictionarry - A collection of tailored Quality Profiles & Custom Formats for Radarr  Sonarr.md",
     "Introducing Dictionarry - A collection of Quality Profiles & Custom Formats for Radarr & Sonarr.md",
