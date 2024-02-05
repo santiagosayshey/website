@@ -24,23 +24,23 @@ From our GPPi data, we can construct a tier list of release groups based on thei
 | [CRiSC](../Custom%20Formats/Release%20Groups.md#crisc) |  |  |  | 4 |
 | [decibeL](../Custom%20Formats/Release%20Groups.md#decibel) |  |  |  |  |
 | [de[42]](../Custom%20Formats/Release%20Groups.md#de42) |  |  |  |  |
-| [IDE](../Custom%20Formats/Release%20Groups.md#ide) | [HiP](../Custom%20Formats/Release%20Groups.md#hip) | CJ |  | 5 |
-| [HDMaNiAcS](../Custom%20Formats/Release%20Groups.md#hdmaniacs) |  | hdalx |  |  |
-| [BMF](../Custom%20Formats/Release%20Groups.md#bmf) |  | AJP69 |  |  |
-| [EA](../Custom%20Formats/Release%20Groups.md#ea) |  | VLAD |  |  |
-| [NTb](../Custom%20Formats/Release%20Groups.md#ntb) |  | iON |  |  |
-|  |  | P0W4HD |  |  |
-|  |  | FilmHD |  |  |
-|  |  | LiNG |  |  |
-| [TBB](../Custom%20Formats/Release%20Groups.md#tbb) | [ZIMBO](../Custom%20Formats/Release%20Groups.md#zimbo) |  |  | 6 |
-| [nmd](../Custom%20Formats/Release%20Groups.md#nmd) | [NyHD](../Custom%20Formats/Release%20Groups.md#nyhd) |  |  |  |
-| [SbR](../Custom%20Formats/Release%20Groups.md#sbr) | [luvBB](../Custom%20Formats/Release%20Groups.md#luvbb) |  |  |  |
-| [PTer](../Custom%20Formats/Release%20Groups.md#pter) | [GALAXY](../Custom%20Formats/Release%20Groups.md#galaxy) |  |  |  |
-| [Dariush](../Custom%20Formats/Release%20Groups.md#dariush) | [GS88](../Custom%20Formats/Release%20Groups.md#gs88) |  |  |  |
-| [TDD](../Custom%20Formats/Release%20Groups.md#tdd) | [W4NK3R](../Custom%20Formats/Release%20Groups.md#w4nk3r) |  |  |  |
-| [Penumbra](../Custom%20Formats/Release%20Groups.md#penumbra) | [SiMPLE](../Custom%20Formats/Release%20Groups.md#simple) |  |  |  |
-| [FTW-HD](../Custom%20Formats/Release%20Groups.md#ftw-hd) | [BV](../Custom%20Formats/Release%20Groups.md#bv) |  |  |  |
-| [xander](../Custom%20Formats/Release%20Groups.md#xander) | [GutS](../Custom%20Formats/Release%20Groups.md#guts) |  |  |  |
+| [IDE](../Custom%20Formats/Release%20Groups.md#ide) | [HiP](../Custom%20Formats/Release%20Groups.md#hip) |  |  | 5 |
+| [HDMaNiAcS](../Custom%20Formats/Release%20Groups.md#hdmaniacs) |  |  |  |  |
+| [BMF](../Custom%20Formats/Release%20Groups.md#bmf) |  |  |  |  |
+| [EA](../Custom%20Formats/Release%20Groups.md#ea) |  |  |  |  |
+| [NTb](../Custom%20Formats/Release%20Groups.md#ntb) |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+| [TBB](../Custom%20Formats/Release%20Groups.md#tbb) | [ZIMBO](../Custom%20Formats/Release%20Groups.md#zimbo) | CJ |  | 6 |
+| [nmd](../Custom%20Formats/Release%20Groups.md#nmd) | [NyHD](../Custom%20Formats/Release%20Groups.md#nyhd) | hdalx |  |  |
+| [SbR](../Custom%20Formats/Release%20Groups.md#sbr) | [luvBB](../Custom%20Formats/Release%20Groups.md#luvbb) | AJP69 |  |  |
+| [PTer](../Custom%20Formats/Release%20Groups.md#pter) | [GALAXY](../Custom%20Formats/Release%20Groups.md#galaxy) | VLAD |  |  |
+| [Dariush](../Custom%20Formats/Release%20Groups.md#dariush) | [GS88](../Custom%20Formats/Release%20Groups.md#gs88) | iON |  |  |
+| [TDD](../Custom%20Formats/Release%20Groups.md#tdd) | [W4NK3R](../Custom%20Formats/Release%20Groups.md#w4nk3r) | P0W4HD |  |  |
+| [Penumbra](../Custom%20Formats/Release%20Groups.md#penumbra) | [SiMPLE](../Custom%20Formats/Release%20Groups.md#simple) | FilmHD |  |  |
+| [FTW-HD](../Custom%20Formats/Release%20Groups.md#ftw-hd) | [BV](../Custom%20Formats/Release%20Groups.md#bv) | LiNG |  |  |
+| [xander](../Custom%20Formats/Release%20Groups.md#xander) | [GutS](../Custom%20Formats/Release%20Groups.md#guts) | HR |  |  |
 | [Chotab](../Custom%20Formats/Release%20Groups.md#chotab) | [E.N.D](../Custom%20Formats/Release%20Groups.md#end) |  |  |  |
 | [ESiR](../Custom%20Formats/Release%20Groups.md#esir) | [playHD](../Custom%20Formats/Release%20Groups.md#playhd) |  |  |  |
 | [Positive](../Custom%20Formats/Release%20Groups.md#positive) | [KASHMiR](../Custom%20Formats/Release%20Groups.md#kashmir) |  |  |  |

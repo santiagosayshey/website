@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki/Issues & Feedback.md",
+                "file": "Wiki/Golden Popcorn Performance Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "9a1ba381ae139d90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wiki/Importing Profiles & Custom Formats.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3947aa67a86ccf5d",
             "type": "leaf",
             "state": {
@@ -74,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/Issues & Feedback.md",
+                "file": "Wiki/Importing Profiles & Custom Formats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wiki/Issues & Feedback.md",
+                "file": "Wiki/Importing Profiles & Custom Formats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wiki/Issues & Feedback.md"
+                "file": "Wiki/Importing Profiles & Custom Formats.md"
               }
             }
           }
@@ -202,27 +214,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8df138d785cd9649",
+  "active": "9a1ba381ae139d90",
   "lastOpenFiles": [
+    "Profiles/1080p h265 Balanced.md",
+    "Wiki/Golden Popcorn Performance Index.md",
     "Profiles/1080p Transparent.md",
+    "Profiles/2160p Optimal.md",
+    "Wiki/Release Group Tiers.md",
     "Wiki/Issues & Feedback.md",
     "Wiki/Quality Profile Philosophy.md",
     "Profiles/Home.md",
-    "Profiles/2160p Optimal.md",
     "Profiles/1080p Optimal.md",
     "Profiles/1080p Balanced.md",
-    "Profiles/1080p h265 Balanced.md",
     "index.md",
     "Wiki/Importing Profiles & Custom Formats.md",
     "Profiles/flowchart.png",
     "Introduction Dictionarry - A collection of tailored Quality Profiles & Custom Formats for Radarr  Sonarr.md",
     "Introducing Dictionarry - A collection of Quality Profiles & Custom Formats for Radarr & Sonarr.md",
     "Profiles/Untitled.canvas",
-    "Wiki/Release Group Tiers.md",
     "Profiles/Immutable.md",
     "Wiki/Sonarr Release Groups.md",
     "Custom Formats/Release Groups.md",
-    "Wiki/Golden Popcorn Performance Index.md",
     "assets/logo.png",
     "Custom Formats/HDR.md",
     "Custom Formats/Sources.md",
