@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "45c78c64c640c66f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Profiles/1080p Balanced.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3947aa67a86ccf5d",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/Golden Popcorn Performance Index.md",
+                "file": "Profiles/1080p Balanced.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wiki/Golden Popcorn Performance Index.md",
+                "file": "Profiles/1080p Balanced.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wiki/Golden Popcorn Performance Index.md"
+                "file": "Profiles/1080p Balanced.md"
               }
             }
           }
@@ -208,12 +220,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e47c0fd2d13151de",
+  "active": "45c78c64c640c66f",
   "lastOpenFiles": [
+    "Profiles/1080p h265 Balanced.md",
+    "Wiki/Golden Popcorn Performance Index.md",
+    "javascripts/mathjax.js",
+    "javascripts",
     "Wiki/Importing Profiles & Custom Formats.md",
     "assets/logo.png",
-    "Wiki/Golden Popcorn Performance Index.md",
-    "Profiles/1080p h265 Balanced.md",
     "Profiles/1080p Transparent.md",
     "Profiles/2160p Optimal.md",
     "Wiki/Release Group Tiers.md",
@@ -238,8 +252,6 @@
     "stylesheets/custom.scss",
     "stylesheets/callouts.scss",
     "stylesheets/base.scss",
-    "javascripts/mathjax.js",
-    "javascripts",
     "Profiles/1. Optimal.md",
     "Profiles/2. Transparent.md",
     "stylesheets/table.css",

@@ -1,6 +1,6 @@
 ## What are Golden Popcorns?
 
-Golden Popcorn are *very high quality encodes*, marked as such by one of the best private torrent trackers. These releases are manually reviewed by a dedicated, experienced team of *Golden Popcorn* checkers. Golden Popcorns are the simplest way to quantify a subjective *best* encode, without ever needing to understand confusing A/V metrics. 
+Golden Popcorn are *very high quality encodes*, marked as such by one of the best private torrent trackers. These releases are manually reviewed by a dedicated, experienced team of *Golden Popcorn* checkers. Golden Popcorns are the simplest way to quantify a subjective *best* encode.
 ## The Decision Engine
 
 The Golden Popcorn Performance Index, or GPPI,  is a calculated metric, pivotal to the "Transparent" profile's decision-making process. It's engineered to rank release groups based on their propensity to release a Golden Popcorn encode at any given resolution. 
@@ -23,6 +23,6 @@ $$
 
 Where:
 
-$\text{GPPI}_r$ is the Golden Popcorn Performance Index at resolution $r$
-$GPC_r$ is the number of Golden Popcorns at resolution $r$
-$E_r$ is the total number of encodes at resolution $r$
+- $\text{GPPI}_r$ is the Golden Popcorn Performance Index at resolution $r$
+- $GPC_r$ is the number of Golden Popcorns at resolution $r$
+- $E_r$ is the total number of encodes at resolution $r$

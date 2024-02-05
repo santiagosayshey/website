@@ -14,7 +14,7 @@ In addition to tier 1 WEB sources, a special consideration for encodes by *BHDSt
 
 Review the guide on [Importing Profiles & Custom Formats](../Wiki/Importing%20Profiles%20&%20Custom%20Formats.md) to import the necessary custom formats and profiles inside your Radarr / Sonarr installation.
 
-When prompted to select a profile, choose 1080p h265 Balanced in your preferred immutability. 
+When prompted to select a profile, choose 1080p Balanced in your preferred immutability. 
 
 ## Score Breakdown
 
