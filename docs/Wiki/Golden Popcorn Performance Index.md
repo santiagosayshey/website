@@ -18,8 +18,8 @@ For any given resolution _r_, the GPPI is defined as:
 
 $$
 \begin{aligned}
-\text{GPPI}_r &= GPC_r \cdot \left( \frac{GPE_r}{E_r} \right) \\
-              &= \frac{GPC_r^2}{E_r}
+\text{GPPI}_r &= GPE_r \cdot \left( \frac{GPE_r}{E_r} \right) \\
+              &= \frac{GPE_r^2}{E_r}
 \end{aligned}
 $$
 
