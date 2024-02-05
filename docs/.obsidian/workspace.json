@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "664d1097f83d4bc8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8df138d785cd9649",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wiki/Golden Popcorn Performance Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "23662c8786f5c2b6",
         "type": "tabs",
         "children": [
@@ -62,6 +44,18 @@
             }
           },
           {
+            "id": "e47c0fd2d13151de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wiki/Golden Popcorn Performance Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3947aa67a86ccf5d",
             "type": "leaf",
             "state": {
@@ -86,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -152,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/Importing Profiles & Custom Formats.md",
+                "file": "Wiki/Golden Popcorn Performance Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wiki/Importing Profiles & Custom Formats.md",
+                "file": "Wiki/Golden Popcorn Performance Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wiki/Importing Profiles & Custom Formats.md"
+                "file": "Wiki/Golden Popcorn Performance Index.md"
               }
             }
           }
@@ -214,10 +208,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a1ba381ae139d90",
+  "active": "e47c0fd2d13151de",
   "lastOpenFiles": [
-    "Profiles/1080p h265 Balanced.md",
+    "Wiki/Importing Profiles & Custom Formats.md",
+    "assets/logo.png",
     "Wiki/Golden Popcorn Performance Index.md",
+    "Profiles/1080p h265 Balanced.md",
     "Profiles/1080p Transparent.md",
     "Profiles/2160p Optimal.md",
     "Wiki/Release Group Tiers.md",
@@ -227,7 +223,6 @@
     "Profiles/1080p Optimal.md",
     "Profiles/1080p Balanced.md",
     "index.md",
-    "Wiki/Importing Profiles & Custom Formats.md",
     "Profiles/flowchart.png",
     "Introduction Dictionarry - A collection of tailored Quality Profiles & Custom Formats for Radarr  Sonarr.md",
     "Introducing Dictionarry - A collection of Quality Profiles & Custom Formats for Radarr & Sonarr.md",
@@ -235,7 +230,6 @@
     "Profiles/Immutable.md",
     "Wiki/Sonarr Release Groups.md",
     "Custom Formats/Release Groups.md",
-    "assets/logo.png",
     "Custom Formats/HDR.md",
     "Custom Formats/Sources.md",
     "assets/open-book_1f4d6.png",

@@ -1,19 +1,28 @@
+## What are Golden Popcorns?
+
+Golden Popcorn are *very high quality encodes*, marked as such by one of the best private torrent trackers. These releases are manually reviewed by a dedicated, experienced team of *Golden Popcorn* checkers. Golden Popcorns are the simplest way to quantify a subjective *best* encode, without ever needing to understand confusing A/V metrics. 
 ## The Decision Engine
 
-The GPPi is a calculated metric, pivotal to the "Transparent" profile's decision-making process. It's engineered to rank release groups based on their consistent delivery of 'Golden Popcorn' quality releases for a given resolution. The formula is a delicate interplay between a group's Golden Popcorn performance and their overall release activity at that resolution.
-
+The Golden Popcorn Performance Index, or GPPI,  is a calculated metric, pivotal to the "Transparent" profile's decision-making process. It's engineered to rank release groups based on their propensity to release a Golden Popcorn encode at any given resolution. 
 ## Formula
 
-For any given resolution _r_, the GPPi is defined as:
+On first glance, it seems the most obvious way to determine which release groups are most likely to release golden popcorns is to find their Golden Popcorn Ratio, i.e. The number of Golden Popcorns divided by the total number of encodes for any given resolution *r*.
+
+However,  If we were to take Golden Popcorn ratio at face value, we might incorrectly prioritise a release group who has GP ratio, but a low number of encodes. On the opposite spectrum, if we take the raw number of Golden Popcorns for any group, we might incorrectly prioritise a group with a low Golden Popcorn ratio.
+
+So instead, we multiply the number of Golden Popcorns at resolution *r* for a given release group, by a factor of said release group's Golden Popcorn Ratio. This essentially limits both metrics as a factor of each other. 
+
+For any given resolution *r*, the GPPI is defined as:
 
 $$
-GPPi_r = \frac{\left( GPE_r \right)^2}{E_r}
+\begin{aligned}
+\text{GPPI}_r &= GPC_r \cdot \left( \frac{GPC_r}{E_r} \right) \\
+              &= \frac{GPC_r^2}{E_r}
+\end{aligned}
 $$
 
 Where:
 
-- \( GPPi \) : Golden Popcorn Performance index at resolution \( r \)
-- \( GPE \) : Number of Golden Popcorn Encodes at resolution \( r \)
-- \( E \) : Total encodes at resolution \( r \)
-
-This algorithm is pretty straightforward. Essentially, it limits both metrics against one another to ensure that one metric is not more important than the other. If we were to take Golden Popcorn ratio at face value, we might incorrectly prioritise a release group who has only ever released a handful of encodes, but each of them are GPs.
+$\text{GPPI}_r$ is the Golden Popcorn Performance Index at resolution $r$
+$GPC_r$ is the number of Golden Popcorns at resolution $r$
+$E_r$ is the total number of encodes at resolution $r$
