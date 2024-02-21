@@ -1,6 +1,6 @@
 ## What are Golden Popcorns?
 
-Golden Popcorn are _very high quality encodes_, marked as such by one of the best private torrent trackers. These releases are manually reviewed by a dedicated, experienced team of _Golden Popcorn_ checkers. Golden Popcorns are the simplest way to quantify a subjective _best_ encode.
+***Golden Popcorns*** are _very high quality encodes_, marked as such by one of the best private torrent trackers. These releases are manually reviewed by a dedicated, experienced team of _Golden Popcorn_ checkers. Golden Popcorns are the simplest way to quantify a subjective _best_ encode.
 
 ## The Decision Engine
 
