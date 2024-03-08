@@ -4,47 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "23662c8786f5c2b6",
+        "id": "53248f59e57a027d",
         "type": "tabs",
         "children": [
           {
-            "id": "96a065a1b1c5605d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Profiles/1080p Balanced.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7d25b3b242e4e42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Profiles/1080p h265 Balanced.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a1ba381ae139d90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wiki/Importing Profiles & Custom Formats.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e47c0fd2d13151de",
+            "id": "54da906b11ee4c50",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,43 +20,18 @@
             }
           },
           {
-            "id": "45c78c64c640c66f",
+            "id": "7c69e2744f0d9021",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Profiles/1080p h265 Balanced.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3947aa67a86ccf5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Profiles/2160p Optimal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d556e98e82a9472",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
+                "file": "Wiki/Release Group Tiers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,18 +159,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e47c0fd2d13151de",
+  "active": "54da906b11ee4c50",
   "lastOpenFiles": [
+    "Wiki/Release Group Tiers.md",
+    "Profiles/1080p x265 HDR Transparent.md",
+    "Profiles/1080p Transparent.md",
+    "Wiki/Golden Popcorn Performance Index.md",
     "Profiles/1080p h265 Balanced.md",
     "Profiles/1080p Balanced.md",
-    "Wiki/Golden Popcorn Performance Index.md",
     "javascripts/mathjax.js",
     "javascripts",
     "Wiki/Importing Profiles & Custom Formats.md",
     "assets/logo.png",
-    "Profiles/1080p Transparent.md",
     "Profiles/2160p Optimal.md",
-    "Wiki/Release Group Tiers.md",
     "Wiki/Issues & Feedback.md",
     "Wiki/Quality Profile Philosophy.md",
     "Profiles/Home.md",

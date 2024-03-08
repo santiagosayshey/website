@@ -7,6 +7,8 @@ tags: []
 
 Welcome to Dictionarry! This project aims to simplify media automation via tailored custom formats & profiles via Radarr & Sonarr.
 
+Come join us at [https://discord.gg/Y9TYP6jeYZ](https://discord.gg/Y9TYP6jeYZ) if you need any help or want to talk!
+
 ## Background
 
 Navigating the world of media quality and formats can be overwhelming. Questions like "Is 4k better than 1080p?" or "What's the difference between x264 and x265?" are common among the broader community.
