@@ -40,10 +40,6 @@ markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
 
-extra_javascript:
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-
 nav:
   - "Ahoy!": "index.md"
   - "Custom Formats":
@@ -83,3 +79,5 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/Y9TYP6jeYZ
 
+extra_files:
+  - _redirects
