@@ -78,6 +78,3 @@ extra:
       link: https://github.com/santiagosayshey/Profilarr
     - icon: fontawesome/brands/discord
       link: https://discord.gg/Y9TYP6jeYZ
-
-extra_files:
-  - _redirects
