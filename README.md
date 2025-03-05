@@ -2,7 +2,7 @@
 
 This repository is no longer maintained. Please visit [dictionarry.dev](https://dictionarry.dev) for the latest version of Dictionarry.
 
-The source code for the new site can be found at: [github.com/santiagosayshey/website](https://github.com/santiagosayshey/website)
+The source code for the new site can be found at: [github.com/santiagosayshey/website](https://github.com/Dictionarry-Hub/website)
 
 ---
 
@@ -18,7 +18,7 @@ This is an archived version of Dictionarry. This repository contains the old MkD
 ## ⚡ Quick Links
 
 - New Site: [dictionarry.dev](https://dictionarry.dev)
-- New Repository: [github.com/santiagosayshey/website](https://github.com/santiagosayshey/website)
+- New Repository: [github.com/santiagosayshey/website](https://github.com/Dictionarry-Hub/website)
 
 ## 💡 Local Development (Archive)
 
